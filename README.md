@@ -1,6 +1,9 @@
 # Game-Mods
 Links to the mods I have made for games
 
+Better Cooling - Backend Cooling behavior
+https://www.nexusmods.com/palworld/mods/5957
+
 Slide and grapple momentum
 https://www.nexusmods.com/palworld/mods/5861
 
