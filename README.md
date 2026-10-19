@@ -1,6 +1,9 @@
 # Game-Mods
 Links to the mods I have made for games
 
+Actual Cover - Stop dying behind cover
+https://www.nexusmods.com/palworld/mods/5960
+
 Better Cooling - Backend Cooling behavior
 https://www.nexusmods.com/palworld/mods/5957
 
